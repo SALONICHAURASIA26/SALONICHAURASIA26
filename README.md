@@ -1,13 +1,10 @@
-PREVIEW
+# Hi 👋, I'm Saloni Chaurasia
 
-💫 About Me:
-Hi 👋, I’m Saloni Chaurasia
+### 📊 Aspiring Data Analyst
 
-## 📊 Aspiring Data Analyst
+I'm passionate about transforming raw data into meaningful business insights using Excel, SQL, Power BI and Python.
 
-I’m passionate about transforming raw data into meaningful business insights using Excel, SQL, Power BI and Python.
-
-—
+---
 
 ## 🚀 About Me
 
@@ -17,99 +14,84 @@ I’m passionate about transforming raw data into meaningful business insights u
 - 🌱 Currently learning Python for Data Analytics
 - 📍 India
 
+---
 
+## 🛠️ Tech Stack
 
-💻 Tech Stack:
-Postgres Power Bi Git GitHub
+- 📊 Microsoft Excel
+- 🗄️ PostgreSQL
+- 📈 Power BI
+- 🐍 Python (Basics)
+- 🧹 Data Cleaning
+- 📉 Data Visualization
+- 📋 Pivot Tables
+- 📊 DAX
 
+---
 
+## 📂 Featured Projects
 
+### 🛒 Retail Business Dashboard
+Interactive Power BI dashboard featuring:
+- Executive Dashboard
+- Product Analytics
+- Customer Analytics
+- Business Insights
+- KPI Tracking
 
+🔗 Repository:
+https://github.com/SALONICHAURASIA26/Retail-Business-Dashboard
 
+---
 
+### 🗃 SQL Project
 
+SQL practice repository containing:
+- Table Creation
+- Joins
+- Aggregate Functions
+- CTEs
+- Window Functions
+- Views
+- Date Functions
+- Subqueries
 
+🔗 Repository:
+https://github.com/SALONICHAURASIA26/SQL-Project
 
+---
 
+## 📫 Connect With Me
 
+💼 LinkedIn
 
+https://www.linkedin.com/in/saloni-chaurasia3
 
+📧 Email
 
+salonichaurasia1126@gmail.com
 
+---
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SALONICHAURASIA26&show_icons=true&theme=tokyonight)
 
+---
 
+## 💻 Most Used Languages
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SALONICHAURASIA26&layout=compact&theme=tokyonight)
 
+---
 
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://streak-stats.demolab.com?user=SALONICHAURASIA26&theme=tokyonight)
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### ⭐ Thanks for visiting my profile!
 
 
 
