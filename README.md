@@ -10,7 +10,7 @@ I'm passionate about transforming raw data into meaningful business insights usi
 
 - 📊 Aspiring Data Analyst
 - 💡 Interested in Business Intelligence & Data Visualization
-- 📈 Love creating interactive dashboards
+- 📈 Love Creating interactive dashboards
 - 🌱 Currently learning Python for Data Analytics
 - 📍 India
 
