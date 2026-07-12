@@ -332,17 +332,7 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Saloni%20Chaurasia&fontSize=45&fontColor=7dd3fc&animation=twinkling&fontAlignY=35&desc=Aspiring%20Data%20Analyst&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=0F172A&background=E0F2FE&center=true&vCenter=true&width=600&height=45&lines=Transforming+raw+data+into+insights;Excel+%7C+SQL+%7C+Power+BI+%7C+Python;Building+interactive+dashboards;Currently+learning+Python+for+Data+Analytics" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
+.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
 
 </div>
 
