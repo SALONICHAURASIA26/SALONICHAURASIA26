@@ -324,27 +324,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-
-
-
-
-
-
-ower BI |
-| Data Prep | Power BI |
-
-🔗 [Code](https://github.com/SALONICHAURASIA26/Retail-Business-Dashboard)
-
-### 💾 SQL Project
-
-SQL practice repository covering Table Creation, Joins, Aggregate Functions, CTEs, Window Functions, Views, Date Functions, and Subqueries.
-
-<img src="https://img.shields.io/github/languages/top/SALONICHAURASIA26/SQL-Project?style=for-the-badge&color=7dd3fc&label=Language" />
-<img src="https://img.shields.io/github/last-commit/SALONICHAURASIA26/SQL-Project?style=for-the-badge&color=7dd3fc&label=Last%20Updated" />
-<img src="https://img.shields.io/github/stars/SALONICHAURASIA26/SQL-Project?style=for-the-badge&color=7dd3fc&label=Stars" />
-
-| Layer | Technology |
-|---|---|
 | Database | PostgreSQL |
 | Query Language | SQL |
 
