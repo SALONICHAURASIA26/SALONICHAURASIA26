@@ -324,14 +324,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-| Database | PostgreSQL |
-| Query Language | SQL |
-
-🔗 [Code](https://github.com/SALONICHAURASIA26/SQL-Project)
-
-### 📈 Excel Sales Dashboard
-
-Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 <img src="https://img.shields.io/badge/Language-Excel-7dd3fc?style=for-the-badge" />
 <img src="https://img.shields.io/github/last-commit/SALONICHAURASIA26/Excel-Sales-Dashboard?style=for-the-badge&color=7dd3fc&label=Last%20Updated" />
