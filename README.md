@@ -324,18 +324,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-
-//img.shields.io/github/stars/SALONICHAURASIA26/Excel-Sales-Dashboard?style=for-the-badge&color=7dd3fc&label=Stars" />
-
-| Layer | Technology |
-|---|---|
-| Visualization | Microsoft Excel |
-| Data Analysis | Pivot Tables, Formulas |
-
-🔗 [Code](https://github.com/SALONICHAURASIA26/Excel-Sales-Dashboard)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages & Query**
