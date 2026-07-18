@@ -323,27 +323,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-
-## 🛠️ Tech Stack
-
-**Languages & Query**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,postgres" />
-
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-**BI & Data Tools**
-<br/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-**Analysis Skills**
-<br/>
-<img src="https://img.shields.io/badge/DAX-7dd3fc?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Pivot_Tables-7dd3fc?style=for-the-badge&logoColor=black" />
-<img src="https://img.shields.io/badge/Data_Visualization-7dd3fc?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Data_Cleaning-7dd3fc?style=for-the-badge&logoColor=black" />
 
 ---
