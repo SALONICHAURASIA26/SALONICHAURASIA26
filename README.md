@@ -278,13 +278,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-<img src="https://img.shields.io/badge/Data_Cleaning-7dd3fc?style=for-the-badge&logoColor=black" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
 
 <img src="https://img.shields.io/github/followers/SALONICHAURASIA26?style=for-the-badge&color=7dd3fc&label=Followers&logo=github" />
 
