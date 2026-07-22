@@ -220,46 +220,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <img src="https://img.shields.io/github/followers/SALONICHAURASIA26?style=for-the-badge&color=7dd3fc&label=Followers&logo=github" />
 
 </div>
