@@ -211,19 +211,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-
-<img src="https://img.shields.io/github/followers/SALONICHAURASIA26?style=for-the-badge&color=7dd3fc&label=Followers&logo=github" />
-
-</div>
-NICHAURASIA26&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff" width="90%" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-chaurasia3)
 [![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:salonichaurasia1126@gmail.com)
 
