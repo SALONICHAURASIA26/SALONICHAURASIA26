@@ -537,7 +537,7 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=120&section=footer&animation=twinkling" width="100%"/>
+100%"/>
 
 
 
