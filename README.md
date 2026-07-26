@@ -211,8 +211,7 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saloni-chaurasia3)
-[![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:salonichaurasia1126@gmail.com)
+Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:salonichaurasia1126@gmail.com)
 
 </div>
 
