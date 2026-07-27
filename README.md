@@ -423,9 +423,7 @@ Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&
 
 
 
-.io/badge/Open%20to%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=black)
-
-</div>
+.</div>
 
 ---
 
