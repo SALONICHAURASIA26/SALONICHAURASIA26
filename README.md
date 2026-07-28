@@ -462,7 +462,7 @@ SQL practice repository covering Table Creation, Joins, Aggregate Functions, CTE
 <img src="https://img.shields.io/github/last-commit/SALONICHAURASIA26/SQL-Project?style=for-the-badge&color=7dd3fc&label=Last%20Updated" />
 <img src="https://img.shields.io/github/stars/SALONICHAURASIA26/SQL-Project?style=for-the-badge&color=7dd3fc&label=Stars" />
 
-| Layer | Technology |
+
 |---|---|
 | Database | PostgreSQL |
 | Query Language | SQL |
