@@ -422,28 +422,6 @@ Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&
 
 
 
-
-.</div>
-
----
-
-## 👩‍💻 Who I Am
-
-- 🎯 **Title:** Aspiring Data Analyst
-- 🛠️ **Stack:** Excel, SQL (PostgreSQL), Power BI, Python
-- 🚀 **Launched Projects:** Retail Business Dashboard, SQL Project, Excel Sales Dashboard
-- 📍 **Status:** Currently learning Python for Data Analytics
-- 🤝 **Open To:** Data Analyst roles, Business Intelligence, Data Visualization
-
----
-
-## 📌 Featured Projects
-
-### 🛒 Retail Business Dashboard
-
-Interactive Power BI dashboard featuring Executive Dashboard, Product Analytics, Customer Analytics, Business Insights, and KPI Tracking.
-
-<img src="https://img.shields.io/github/languages/top/SALONICHAURASIA26/Retail-Business-Dashboard?style=for-the-badge&color=7dd3fc&label=Language" />
 <img src="https://img.shields.io/github/last-commit/SALONICHAURASIA26/Retail-Business-Dashboard?style=for-the-badge&color=7dd3fc&label=Last%20Updated" />
 <img src="https://img.shields.io/github/stars/SALONICHAURASIA26/Retail-Business-Dashboard?style=for-the-badge&color=7dd3fc&label=Stars" />
 
