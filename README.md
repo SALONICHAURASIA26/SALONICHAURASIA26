@@ -196,21 +196,6 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:salonichaurasia1126@gmail.com)
 
 </div>
