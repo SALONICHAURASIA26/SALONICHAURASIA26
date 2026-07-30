@@ -71,7 +71,18 @@ Interactive Global Electronics Sales Dashboard created entirely in Excel.
 
 🔗 [Code](https://github.com/SALONICHAURASIA26/Excel-Sales-Dashboard)
 
----
+### 🏦 Banking Analytics Project
+
+End-to-end Banking Analytics project featuring an 11-table PostgreSQL database (customers, accounts, loans, transactions, branches) and an interactive multi-page Power BI dashboard with key banking KPIs.
+
+| Layer         | Technology                     |
+| ------------- | -------------------------------- |
+| Data Cleaning | Excel                            |
+| Database      | PostgreSQL                       |
+| Visualization | Power BI                         |
+| Data Prep     | SQL, Power Query, DAX            |
+
+🔗 [Code](https://github.com/SALONICHAURASIA26/Banking_Analytics_Project)
 
 ## 🛠️ Tech Stack
 
