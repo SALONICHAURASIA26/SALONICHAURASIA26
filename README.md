@@ -17,7 +17,7 @@
 ## 👩‍💻 Who I Am
 
 - 🎯 **Title:** Aspiring Data Analyst
-- 🛠️ **Stack:**  Excel, SQL (PostgreSQL), Power BI, Python
+- 🛠️ **Stack:** Advance Excel, SQL (PostgreSQL), Power BI, Python
 - 🚀 **Launched Projects:** Retail Business Dashboard, SQL Project, Excel Sales Dashboard
 - 📍 **Status:** Currently learning Python for Data Analytics
 - 🤝 **Open To:** Data Analyst roles, Business Intelligence, Data Visualization
