@@ -120,7 +120,7 @@ End-to-end Banking Analytics project featuring an 11-table PostgreSQL database (
 
 ---
 
-## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 <div align="center">
 
